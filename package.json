@@ -1,0 +1,22 @@
+{
+  "name": "log-std",
+  "version": "1.0.0",
+  "description": "Powerful log tool",
+  "main": "lib/log.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "log",
+    "logger",
+    "debug",
+    "logs",
+    "console",
+    "error"
+  ],
+  "author": "Facundo Zaldo",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.27.0"
+  }
+}
